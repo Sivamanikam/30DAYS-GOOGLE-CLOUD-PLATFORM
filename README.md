@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>GOOGLE CLOUD</title>
-</head>
 <body>
     <h1>Cloud Engineering Track</h1>
     <p><a href="https://www.cloudskillsboost.google/public_profiles/9e918813-0fb2-4354-b38b-fb8780ee3aab/badges/1228511">1: Getting Started: Create and Manage Cloud Resources</a></p>
